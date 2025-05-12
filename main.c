@@ -28,16 +28,12 @@ int main(void)
 				curr = 254;
 			}
 			curr++;
-			
 		} 
 		else {
 			if (curr == 0){
 				curr = 1;
 			}
-			curr--;
-			
-		
-		
+			curr--;	
 		}
 		
 		PORTD = curr;
