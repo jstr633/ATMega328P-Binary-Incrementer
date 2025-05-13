@@ -12,7 +12,7 @@
 
 int main(void)
 {
-	/* Replace with your application code */
+	/* Set io ports */
 	DDRD = 0xFF;
 	DDRC = 0x00;
 	PORTD = 0x00;
@@ -21,6 +21,7 @@ int main(void)
 
 	while (1)
 	{
+		// checks if button pressed
 		if (PINC & (1 << PINC4))
 		{
 			if (curr == 255)
