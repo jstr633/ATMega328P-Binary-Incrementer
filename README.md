@@ -1,21 +1,35 @@
-<h1> **ATmega328p Binary Counter**</h1>
+<h1 align="center"><strong>ATmega328P Binary Counter</strong></h1>
 
-<p>
-  <strong>An 8-bit binary counter designed in Proteus and breadboarded for real life functionality</strong>
+<p align="center">
+  <strong>An 8-bit binary counter designed in Proteus and breadboarded for real-life functionality</strong>
 </p>
 
-<h2>Project Outline</h2>
+<table>
+<tr>
+<td width="55%">
 
-The counter has forward and backward binary counting capability toggled by push buttons on a breadboard. There is also a LED flashing reset sequence triggered by the user with a push button.
+### 🧾 Project Outline
 
-<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="700" style="margin-right: 200px;" />
+This project implements an 8-bit binary counter using an **ATmega328P microcontroller**, designed and simulated in **Proteus** before being prototyped on a **breadboard**. The counter supports both **incrementing** and **decrementing** modes, controlled by two push buttons.
 
+An additional button triggers a **reset sequence**, which flashes all LEDs in a pattern before clearing the counter. The current count is displayed in **binary** using 8 onboard LEDs connected to the microcontroller’s output pins.
 
-<h2>Future Upgrades</h2>
+This design emphasizes simplicity, user interaction, and visual clarity, making it ideal for learning and demonstrating embedded system fundamentals such as GPIO, debouncing, and binary counting logic.
 
-An LCD screen that displays the count in binary and decimal, counting direction and when the counter is reset.
+</td>
+<td>
 
+<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="100%"/>
 
+</td>
+</tr>
+</table>
 
+---
 
+### 🔧 Future Upgrades
 
+- LCD screen that displays:
+  - Count in **binary and decimal**
+  - **Counting direction**
+  - **Reset status**
