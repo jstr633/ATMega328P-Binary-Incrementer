@@ -8,7 +8,7 @@
 
 The counter has forward and backward binary counting capability toggled by push buttons on a breadboard. There is also a LED flashing reset sequence triggered by the user with a push button.
 
-<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="250" style="margin-right: 200px;" />
+<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="700" style="margin-right: 200px;" />
 
 
 <h2>Future Upgrades</h2>
