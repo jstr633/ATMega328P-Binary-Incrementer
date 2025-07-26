@@ -19,7 +19,7 @@ This design emphasizes simplicity, user interaction, and visual clarity, making 
 </td>
 <td>
 
-<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="1000px"/>
+<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="100%" style="border-radius: 8px;"/>
 
 </td>
 </tr>
