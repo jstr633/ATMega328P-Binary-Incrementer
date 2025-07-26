@@ -8,7 +8,7 @@
 <tr>
 <td width="55%">
 
-### 🧾 Project Outline
+### Project Outline
 
 This project implements an 8-bit binary counter using an **ATmega328P microcontroller**, designed and simulated in **Proteus** before being prototyped on a **breadboard**. The counter supports both **incrementing** and **decrementing** modes, controlled by two push buttons.
 
@@ -19,7 +19,7 @@ This design emphasizes simplicity, user interaction, and visual clarity, making 
 </td>
 <td>
 
-<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="100%"/>
+<img src="https://github.com/user-attachments/assets/bb801589-f0ad-484f-b01f-e2c8adca9450" width="200%"/>
 
 </td>
 </tr>
@@ -27,7 +27,7 @@ This design emphasizes simplicity, user interaction, and visual clarity, making 
 
 ---
 
-### 🔧 Future Upgrades
+### Future Upgrades
 
 - LCD screen that displays:
   - Count in **binary and decimal**
